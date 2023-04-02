@@ -4,7 +4,9 @@
 <h1> HELLO WORLD, I'M HUY 👋</h1>
 
 <div id="banner" align="center">
-  <img src="[https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif](https://cdn.tgdd.vn/Files/2018/07/06/1099621/front-end-developers-openings_680x428.gif" width="500"/>
+  
+<img align="center" alt="coding" width="400" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif">
+  
 </div>
  
 ## 🧑‍🎓 About Me
