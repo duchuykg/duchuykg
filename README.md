@@ -1,10 +1,7 @@
 <div id="header" align="center">
 
-# HELLO WORLD, I AM HUY 👋 
-<br>
-
 [![](https://visitcount.itsvg.in/api?id=duchuykg&icon=7&color=12)](https://visitcount.itsvg.in)
-
+# HELLO WORLD, I AM HUY 👋 
 
 ## 🧑‍🎓 About Me
 </div>
