@@ -5,7 +5,7 @@
 
 <div id="banner" align="center">
   
-<img align="center" alt="coding" width="400" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif">
+<img align="center" alt="coding" width="400" src="https://cdn.tgdd.vn/Files/2018/07/06/1099621/front-end-developers-openings_680x428.gif">
   
 </div>
  
