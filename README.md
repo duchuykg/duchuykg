@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div align="center">
 
 **HELLO WORLD, I AM HUY** 👋 
 ---
@@ -6,14 +6,14 @@
 
 
 ## 🧑‍🎓 About Me
-
+</div>
 🏫 I'm a third-year student at Ho Chi Minh City University of Technology.<br>
 📑 I'm interested in pursuing internship or entry-level opportunities in the fields of frontend or backend development, as I have completed several projects in these areas.<br>
 👀 In my free time, I always learning new things.<br>
 💬 Connect with me: <br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/duchuy22902/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%C4%91%E1%BB%A9c-huy-b76b49176/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCmvIP_5mg49uGi5BSuRi9Nw) 
-</div>
-<center>
+
+<div align="center">
 
 
 ## 💻 Tech Stack
@@ -24,4 +24,4 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</center>
+</div>
