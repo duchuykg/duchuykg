@@ -18,7 +18,7 @@
 - 💬 Connect with me: <br>
 
 <div align="center">
-  <a href="https://facebook.com/https://www.facebook.com/duchuy22902">
+  <a href="https://www.facebook.com/duchuy22902">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="mailto:huy.pham2002khmt@hcmut.edu.vn">
