@@ -1,7 +1,7 @@
 <div id="header" align="center">
 
 [![](https://visitcount.itsvg.in/api?id=duchuykg&icon=7&color=12)](https://visitcount.itsvg.in)
-# HELLO WORLD, I AM HUY 👋 
+<h1> HELLO WORLD, I'M HUY 👋</h1>
 
 ***
 ## 🧑‍🎓 About Me
@@ -39,6 +39,7 @@
 </div>
 ***
 ## 📊 GitHub Stats
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=duchuykg&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duchuykg&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
