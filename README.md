@@ -3,6 +3,9 @@
 [![](https://visitcount.itsvg.in/api?id=duchuykg&icon=7&color=12)](https://visitcount.itsvg.in)
 <h1> HELLO WORLD, I'M HUY 👋</h1>
 
+<div id="banner" align="center">
+  <img src="[https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif](https://cdn.tgdd.vn/Files/2018/07/06/1099621/front-end-developers-openings_680x428.gif" width="500"/>
+</div>
  
 ## 🧑‍🎓 About Me
 </div>
