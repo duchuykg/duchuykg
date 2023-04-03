@@ -14,7 +14,7 @@
 
 - 🏫 I'm a third-year student at Ho Chi Minh City University of Technology.<br>
 - 📑 I'm interested in pursuing internship or entry-level opportunities in the fields of frontend or backend development, as I have completed several projects in these areas.<br>
-- 🔍 In my free time, I always learning new things.<br>
+- 🔍 In my free time, I am always learning new things.<br>
 - 💬 Connect with me: <br>
 
 <div align="center">
