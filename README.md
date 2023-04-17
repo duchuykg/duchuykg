@@ -50,7 +50,7 @@
 </div>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=duchuykg&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duchuykg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=Jupyter%20Notebook)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=duchuykg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=Jupyter%20Notebook&langs_count=10)
 
 ![Snake animation](https://github.com/duchuykg/duchuykg/blob/output/github-contribution-grid-snake.svg)
 
