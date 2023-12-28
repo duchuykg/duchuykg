@@ -27,7 +27,7 @@
   <a href="https://www.youtube.com/channel/UCmvIP_5mg49uGi5BSuRi9Nw">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Youtube"/>
   </a> 
-  <a href="https://www.linkedin.com/in/duc-huy-pham-hoang-b76b49176/">
+  <a href="https://www.linkedin.com/in/đức-huy-phạm-hoàng-b76b49176/">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn"/>
   </a> 
 
